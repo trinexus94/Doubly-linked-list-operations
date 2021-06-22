@@ -18,5 +18,13 @@
     <ClCompile Include="Doubly-linked-list-operations.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="doubly.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="doubly.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
